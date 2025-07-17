@@ -83,12 +83,12 @@ learning][active-learning].
 
 See the [site welcome page][time-required], under ["Time required"][time-required].
 
-[time-required]: /#time-required
+[time-required]: /backup-2024/#time-required
 
 ### What are the textbooks and recommended readings for the unit? { #recommended-readings }
 
-See ["Recommended readings"](/schedule/#recommended-readings) on the
-[Resources page](/resources). This lists the two textbooks,
+See ["Recommended readings"](/backup-2024/schedule/#recommended-readings) on the
+[Resources page](/backup-2024/resources). This lists the two textbooks,
 outlines the recommended reading for each week, and contains
 a link to UWA's "Unit Readings" site.
 
@@ -106,7 +106,7 @@ from [AbeBooks](https://www.abebooks.com),
 
 Online access to the texts and recommended readings
 is also available through UWA's "Unit Readings"
-site -- see ["Recommended readings"](/schedule/#recommended-readings).
+site -- see ["Recommended readings"](/backup-2024/schedule/#recommended-readings).
 
 ### How can I keep backups of my work? { #backups }
 
@@ -190,7 +190,7 @@ On the ["Resources" page][slides], under
 They'll be published there progressively throughout the semester.
 For previous years' lecture slides, see [here](#previous-content).
 
-[slides]: /resources/#lectures
+[slides]: /backup-2024/resources/#lectures
 
 ### Are lectures recorded? { #are-lecturers-recorded }
 
@@ -247,7 +247,7 @@ On the ["Resources" page][worksheets], under
 They'll be published there progressively throughout the semester.
 For previous years' worksheets, see [here](#previous-content).
 
-[worksheets]: /resources/#worksheets
+[worksheets]: /backup-2024/resources/#worksheets
 
 ### What's contained in the lab worksheets?
 
@@ -270,7 +270,7 @@ attempted them.
 
 No -- if you don't want to attend the labs, you do not have to. However,
 the labs provide the best opportunity for getting feedback and
-assistance from teaching staff, as a lab [facilitator](/#facilitators)
+assistance from teaching staff, as a lab [facilitator](/backup-2024/#facilitators)
 is available at each lab. It's therefore strongly recommended that you do attend.
 
 ### Are there online labs? { #are-there-online-labs }
@@ -296,7 +296,7 @@ agreed beforehand, then the lab facilitator may record the lab.
 Yes -- as long as there is room available for you, you are welcome to attend other
 lab sessions. See [under "labs"][labs], on the site home page, for details.
 
-[labs]: /#labs
+[labs]: /backup-2024/#labs
 
 ### Can I email questions to the lab facilitators?
 
@@ -328,8 +328,8 @@ box labelled "Unit search", and then click "Show timetable".)
 ### When are the assessments due?
 
 A list of all assessments (and their due dates) is given on the
-[**Assessments page**](/assessment){ class="hi-pri" }, and due dates are
-also shown on the [**Schedule**](/schedule){ class="hi-pri" }.
+[**Assessments page**](/backup-2024/assessment){ class="hi-pri" }, and due dates are
+also shown on the [**Schedule**](/backup-2024/schedule){ class="hi-pri" }.
 
 (The content for both is generated from a
 [JavaScript source file](https://github.com/{{ siteinfo.repository }}/blob/master/src/_data/siteinfo.js)
@@ -343,7 +343,7 @@ See also [Academic conduct and source citation](#academic-conduct-source-citatio
 ### How do I submit an assessment? { #assessment-submission }
 
 Details of how to submit each assessment will be released on
-the [Assessment page](/assessment/).
+the [Assessment page](/backup-2024/assessment/).
 Most of the assessments will be submitted using [Moodle]({{moodle_url}}){{blank}}.
 In order to submit an assessment, you'll need to create an account on
 the Moodle server by visiting the [Moodle signup page][moodle-signup].
@@ -358,7 +358,7 @@ name. (All other details are optional.)
 Visit <https://quiz.jinhong.org> and sign up
 using your UWA email address.
 
-Note that you need to register on Moodle **before the week of the [first assessment](/assessment/)** – only enrolled CITS5501
+Note that you need to register on Moodle **before the week of the [first assessment](/backup-2024/assessment/)** – only enrolled CITS5501
 students are permitted to take the assessments, so early in that week, any unenrolled
 Moodle participants will be removed, and self-registration will be locked.
 
@@ -384,7 +384,7 @@ For **quizzes and tests**{ class="hi-pri" }:
   all the *other* components will be multiplied by $\frac{100.0}{100.0 - {{ quiz_percent }} }$.
 
   If you are granted special consideration, it's helpful if you can email
-  the [Unit Coordinator](/#unit-coordinator) to let them know -- Unit
+  the [Unit Coordinator](/backup-2024/#unit-coordinator) to let them know -- Unit
   Coordinators aren't automatically notified when special consideration
   is granted.
 
@@ -393,7 +393,7 @@ For **quizzes and tests**{ class="hi-pri" }:
   (although the time limit is typically generous).
   If you have an Academic Adjust Plan in place from UniAccess (UAAP), you may be
   entitled to extra time for online assessments -- email the
-  [Unit Coordinator](/#unit-coordinator) in accordance with your UAAP to
+  [Unit Coordinator](/backup-2024/#unit-coordinator) in accordance with your UAAP to
   let them know.
 
   (See also: ["I have a UniAccess accommodation plan, do I need to let
@@ -408,7 +408,7 @@ For **projects**{ class="hi-pri" }:
   special consideration][special-consideration] for details).
 
   If you are granted special consideration, it's helpful if you can email
-  the [Unit Coordinator](/#unit-coordinator) to let them know -- Unit
+  the [Unit Coordinator](/backup-2024/#unit-coordinator) to let them know -- Unit
   Coordinators aren't automatically informed when special consideration is granted.
 
   It's also possible to submit your assessment late, subject to the
@@ -548,7 +548,7 @@ Wherever possible, we adopt a rubric based on the following scheme:
     component; and a *not yet satisfactory* answer will be awarded 0–49%
     of the mark for that component.
 
-    ![]({{ '/images/rubric-table.png'  | url }})
+    ![]({{ '/backup-2024/images/rubric-table.png'  | url }})
 
 ### What should I do if a question or task in an assessment is ambiguous or contains an error? { #errors-in-questions }
 
@@ -602,7 +602,7 @@ Your UniAccess accommodation plan (UAAP) will state that if you have alternative
 exam arrangements for a quiz, test, exam or other timed assessment, then
 you need to contact the Unit Coordinator at least 2-3 weeks prior to the
 date of the assessment to request that these arrangements be put in
-place. Please do so by [emailing the Unit Coordinator](/#unit-coordinator).
+place. Please do so by [emailing the Unit Coordinator](/backup-2024/#unit-coordinator).
 
 If your UniAccess accommodation plan states that you require flexibility
 with submission deadlines, then it will also state that you should
@@ -820,7 +820,7 @@ The **exam is *not* open-book**{ class="hi-pri" }, and is invigilated, but you a
 access to some materials -- refer to the [Assessment
 page][ass-exam]{ class="hi-pri" } for more details.
 
-[ass-exam]: /assessment#exam
+[ass-exam]: /backup-2024/assessment#exam
 
 **Checking your answers**{ class="hi-pri" }
 
@@ -837,7 +837,7 @@ page][ass-exam]{ class="hi-pri" } for more details.
 **Contacting other people**{ class="hi-pri" } { #contacting-other-people }
 
 :   You **may**{ class="hi-pri" } contact the
-    [unit coordinator](/#unit-coordinator) if you
+    [unit coordinator](/backup-2024/#unit-coordinator) if you
     are unable to access the quiz/test/exam or have difficulties submitting
     it. Make sure to include a screenshot of the problem.
 
@@ -883,7 +883,7 @@ Students affected by such an outage should immediately
 
 - take a screenshot showing the issue, if possible
 - log the problem with [University IT](https://www.it.uwa.edu.au/it-help/local-support)
-- email the [unit coordinator](/#unit-coordinator)
+- email the [unit coordinator](/backup-2024/#unit-coordinator)
 
 However, this only applies to infrastructure maintained by the
 University. If you choose to complete a test at home, it's your
@@ -903,7 +903,7 @@ receive individual feedback from the marker.
 
 ### How can I seek clarification on the marks I achieved for a test question? { #test-marks-query }
 
-You should email the [unit coordinator](/#unit-coordinator). Before emailing, make sure you:
+You should email the [unit coordinator](/backup-2024/#unit-coordinator). Before emailing, make sure you:
 
 - Carefully read through the [marking rubric](#marking-rubric) and any [feedback and
   explanation](#test-marks-breakdown) relating to a question. Often, these will answer
@@ -1034,13 +1034,13 @@ See also:
 
 ### Are past exams available? { #past-exams-availability }
 
-Yes -- see the [Assessment](/assessment/) page for more details.
+Yes -- see the [Assessment](/backup-2024/assessment/) page for more details.
 
-[past-papers]: /assessment/#past-exam-papers
+[past-papers]: /backup-2024/assessment/#past-exam-papers
 
 ### Are solutions to past exams available? { #past-exams-solutions }
 
-No -- see the [Assessment](/assessment/) page.
+No -- see the [Assessment](/backup-2024/assessment/) page.
 The main reason for this is that providing students with exam
 solutions usually does *not* lead to them studying effectively for the exam.
 Studying effectively requires [active
@@ -1052,7 +1052,7 @@ effectively.
 A better approach is to attempt the questions, under
 close-to-exam-conditions (for instance, timing yourself), and to compare
 your answers with those of a fellow student. If you've done so and
-still have queries, you can also [make an appointment](/#unit-coordinator)
+still have queries, you can also [make an appointment](/backup-2024/#unit-coordinator)
 with me to discuss your answers and remaining questions.
 
 Be sure to start your revision and formulate your questions *early*!
@@ -1117,7 +1117,7 @@ b.  review the page ["How do I ask a good question?"][good-question]
 [good-question]: https://stackoverflow.com/help/how-to-ask
 
 Note that any posts on the discussion forum need to comply with UWA's
-[Code of Conduct](/#expectations) and
+[Code of Conduct](/backup-2024/#expectations) and
 [academic conduct policy][acad-policy]. That means you should
 
 - endeavour to treat everyone with respect and courtesy and without

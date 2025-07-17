@@ -143,7 +143,7 @@ for exact
 assessment due dates -- the software used to generate the unit outlines
 is known to be buggy, and may insert incorrect due dates.
 Instead, use the assessment dates published here (also available from
-the [**Schedule**](/schedule){ class="hi-pri" }).
+the [**Schedule**](/backup-2024/schedule){ class="hi-pri" }).
 Any changes will be published here, as well as being announced
 on the unit [**discussion forum**]({{forum_url}}){ target="_blank" }.
 
@@ -160,14 +160,14 @@ of 0. It is your responsibility to ensure you submit by the due date and
 time -- even if you think a website such as Moodle will not stop you
 from making a late submission.
 
-[No extensions are permitted](/faq#extensions){ class="hi-pri" }
+[No extensions are permitted](/backup-2024/faq#extensions){ class="hi-pri" }
 for quizzes and tests: they must be
 done on the dates specified (just as for face-to-face tests and exams).
 For more details, see [**"Can I get an extension on the deadline for an
-assessment?"**](/faq#extensions){ class="hi-pri" } in the unit FAQ.
+assessment?"**](/backup-2024/faq#extensions){ class="hi-pri" } in the unit FAQ.
 
 Your submitted work or answers for any assessment item
-[may be submitted](/faq#plagiarism-checks) to plagiarism detectors
+[may be submitted](/backup-2024/faq#plagiarism-checks) to plagiarism detectors
 such as `JPlag`, `moss` or `turnitin` to detect plagiarism.
 
 The quizzes, tests and exam do contain theoretical questions, but are
@@ -178,17 +178,17 @@ and they may ask you to write compileable and executable code.
 ### Common questions about assessments { #assessment-faqs # }
 
 Several common questions about assessment are answered on the
-unit [**FAQ**](/faq){ class="hi-pri" } (Frequently Asked Questions) page.
+unit [**FAQ**](/backup-2024/faq){ class="hi-pri" } (Frequently Asked Questions) page.
 
 These include the following:
 
 - [What material is examinable/testable?](/faq#examinable-material)
 - [What are the expectations regarding citation of sources/academic
-  conduct?](/faq#source-citation-conduct-expectations)<br>
+  conduct?](/backup-2024/faq#source-citation-conduct-expectations)<br>
   (In brief: abide by UWA's academic conduct policy; be careful not to
   plagiarize.)
-- [What is the marking rubric for assessments?](/faq#marking-rubric)
-- [Are the quizzes/tests/exams open book?](/faq#test-conduct)
+- [What is the marking rubric for assessments?](/backup-2024/faq#marking-rubric)
+- [Are the quizzes/tests/exams open book?](/backup-2024/faq#test-conduct)
 
 
 ## Assessment item details
@@ -353,7 +353,7 @@ and timing how long you take. I do *not* publish answers to past exams for two r
 
 However, if you have attempted a previous year's exam, I encourage you to discuss your
 answers with me in order to get feedback.
-See ["Are past exams available?"](/faq#past-exams-availability) in the unit FAQ.
+See ["Are past exams available?"](/backup-2024/faq#past-exams-availability) in the unit FAQ.
 
 [onesearch]: https://onesearch.library.uwa.edu.au/
 

@@ -62,8 +62,8 @@ for recorded lectures and the unit outline.
 
 **Do not** rely on the [Unit Outline]({{outline_url}}) for exact
 assessment due dates: dates for assessments are listed on this site on the
-unit [**Schedule**](/schedule){ class="hi-pri" }
-(as well as on the [**Assessments page**](/assessment){ class="hi-pri" }),
+unit [**Schedule**](/backup-2024/schedule){ class="hi-pri" }
+(as well as on the [**Assessments page**](/backup-2024/assessment){ class="hi-pri" }),
 and any changes will be published here, as well as being announced
 on the unit [**discussion forum**]({{forum_url}}){ target="_blank" }.
 
@@ -88,32 +88,32 @@ _x
 
 ```{list-table}
 - - - Want to know [**what we'll be doing**](#weekly-activities){ class="hi-pri" } and
-      [**when**](/schedule){ class="hi-pri" }?
+      [**when**](/backup-2024/schedule){ class="hi-pri" }?
   - <i class="fa fa-arrow-circle-right"></i>
   - See below for quick details of the [**weekly
     activities**](#weekly-activities){ class="hi-pri" } for the unit,
-    and see the [**Schedule**](/schedule){ class="hi-pri" } for a guide
+    and see the [**Schedule**](/backup-2024/schedule){ class="hi-pri" } for a guide
     to what will be covered in what week. (There's also a link to the
     schedule at the top of every page.)
-- - - Want to know [**if the lectures are recorded**](/faq#are-lecturers-recorded){ class="hi-pri" }?
+- - - Want to know [**if the lectures are recorded**](/backup-2024/faq#are-lecturers-recorded){ class="hi-pri" }?
   - <i class="fa fa-arrow-circle-right"></i>
-  - See the list of [**Frequently Asked Questions**](/faq#are-lecturers-recorded){ class="hi-pri" }.
-- - - Want to know [**what the assessments are**](/assessment){ class="hi-pri" }, and
-      [**when they are due**](/assessment){class="hi-pri"}?
+  - See the list of [**Frequently Asked Questions**](/backup-2024/faq#are-lecturers-recorded){ class="hi-pri" }.
+- - - Want to know [**what the assessments are**](/backup-2024/assessment){ class="hi-pri" }, and
+      [**when they are due**](/backup-2024/assessment){class="hi-pri"}?
   - <i class="fa fa-arrow-circle-right"></i>
-  - See the [**Assessments page**](/assessment){ class="hi-pri" }.
-- - - Want to know [**what topics are examinable**](/faq#examinable-material){ class="hi-pri" }?
+  - See the [**Assessments page**](/backup-2024/assessment){ class="hi-pri" }.
+- - - Want to know [**what topics are examinable**](/backup-2024/faq#examinable-material){ class="hi-pri" }?
   - <i class="fa fa-arrow-circle-right"></i>
-  - See the "[**Examinable topics**](/faq#examinable-material){ class="hi-pri" }"
-    section of the [**Frequently Asked Questions page**](/faq){ class="hi-pri" }.
-- - - Looking for [**lecture slides**](/resources/#lectures){ class="hi-pri" }
-      or [**lab exercise sheets**](/resources/#labworkshops)?
+  - See the "[**Examinable topics**](/backup-2024/faq#examinable-material){ class="hi-pri" }"
+    section of the [**Frequently Asked Questions page**](/backup-2024/faq){ class="hi-pri" }.
+- - - Looking for [**lecture slides**](/backup-2024/resources/#lectures){ class="hi-pri" }
+      or [**lab exercise sheets**](/backup-2024/resources/#labworkshops)?
   - <i class="fa fa-arrow-circle-right"></i>
-  - You can find them on the [**Resources page**](/resources){ class="hi-pri" }.
+  - You can find them on the [**Resources page**](/backup-2024/resources){ class="hi-pri" }.
     (There's also a link to it at the top of every page.)
 - - - Want to [ask a question]{ class="hi-pri" } about the unit?
   - <i class="fa fa-arrow-circle-right"></i>
-  - Check the [**Frequently Asked Questions list**](/faq), and if your question
+  - Check the [**Frequently Asked Questions list**](/backup-2024/faq), and if your question
     isn't answered there, make a post on the [**discussion forum**]({{forum_url}}){ target="_blank" }
     for the unit, [**{{help_forum}}**]({{forum_url}}){ class="hi-pri" target="_blank" } --
     that way, all students can benefit from answers to your questions. \
@@ -196,14 +196,14 @@ labs don't start until week 2)*{ class="hi-pri" }
     provide the best forum for asking questions
     about the unit content and clarifying your understanding.
     Lectures are recorded, so if you cannot attend, you can also watch the recorded lecture
-    ([accessible via](/faq/#accessing-lecture-recordings)
+    ([accessible via](/backup-2024/faq/#accessing-lecture-recordings)
     the UWA Blackboard {{ siteinfo.lms }}).
 
-    Lecture slides are published [here](/resources/#lectures) on this website.
+    Lecture slides are published [here](/backup-2024/resources/#lectures) on this website.
 
 **Labs**  { #labs }
 
-:   Lab worksheets are published on the [resources page](/resources/#lectures) on this
+:   Lab worksheets are published on the [resources page](/backup-2024/resources/#lectures) on this
     website, and there will be a worksheet available for each week from week 2 through
     to week 11. (Week 12 is reserved for your personal revision; no lab worksheet is
     published that week.)
@@ -212,7 +212,7 @@ labs don't start until week 2)*{ class="hi-pri" }
     from home or on campus in your own time. Some weeks, the activities will include
     unassessed quizzes or lessons on the CSSE department's [Moodle]({{moodle_url}}){{blank}}
     server. You should ensure you complete these, as they do form part of the
-    [examinable material](/faq/#examinable-material).
+    [examinable material](/backup-2024/faq/#examinable-material).
 
     Timetabled lab sessions are run on a *drop-in* basis. This means that:
 
@@ -246,7 +246,7 @@ labs don't start until week 2)*{ class="hi-pri" }
 
     **Laptop requirement**{ class="hi-pri" }: You will
     need to use **your own laptop**{ class="hi-pri" } when attending
-    labs (as well as for the [final exam](/assessment/#exam)). The exact
+    labs (as well as for the [final exam](/backup-2024/assessment/#exam)). The exact
     software you should install is discussed in more detail in the
     first lab (held in week *2*) – but in general, it is possible to
     access all the languages and frameworks we will look at using only a
@@ -266,8 +266,8 @@ assurance concepts.
     (All assessments will be completed using the Moodle server, too.) More
     information about these will be available in the first lab.
 
-    You need to ensure you're [registered on Moodle](/faq/#moodle-registration) by the end
-    of week 3, in order to complete the week 4 [assessment](/assessment/).
+    You need to ensure you're [registered on Moodle](/backup-2024/faq/#moodle-registration) by the end
+    of week 3, in order to complete the week 4 [assessment](/backup-2024/assessment/).
 
 **List of timetabled sessions** { #timetable }
 
@@ -289,7 +289,7 @@ assurance concepts.
 
 **The lectures are recorded**{ class="hi-pri" } --
 see the list of [**Frequently Asked
-Questions**](/faq#are-lecturers-recorded){ class="hi-pri" }.
+Questions**](/backup-2024/faq#are-lecturers-recorded){ class="hi-pri" }.
 
 But please note that recordings do
 sometimes fail -- so if you *can* attend the lecture in-person
@@ -308,7 +308,7 @@ attempting exercises and working on assignment tasks.
 
 ### Preparing for lectures
 
-The [**schedule**](/schedule){ class="hi-pri" }
+The [**schedule**](/backup-2024/schedule){ class="hi-pri" }
 contains the list of **recommended readings**{ class="hi-pri" } for each
 topic. To gain maximum benefit from the lectures, I
 recommend you review these *before* attending class.
@@ -422,13 +422,13 @@ for announcements. {#
 (You can also [set up an email subscription][subscription] to the discussion forum
 as follows -- see the [FAQ page][subscription] for details.)
 
-[subscription]: /faq/#forum-subscriptions
+[subscription]: /backup-2024/faq/#forum-subscriptions
 
 It is expected that you keep [reliable backups][backups] of your work,
 as computer and/or IT failures are [not grounds][no-it-failures] for special
 consideration.
 
-[backups]: /faq/#backups
+[backups]: /backup-2024/faq/#backups
 [no-it-failures]: https://www.uwa.edu.au/students/My-course/Exams-assessments-and-results/Special-consideration#:~:text=computer%20and%2For%20IT%20failure
 
 

@@ -55,7 +55,7 @@ module.exports = function(configData) {
     reading:
       `- Amman & Offutt, ch 3
       - Pressman, ch 23 ("Testing conventional applications")`,
-    assessmentDetails: "[Week 3 quiz](https://cits5501.arranstewart.io/assessment/#week-3-quiz) (deadline Sun 11:59pm)"
+    assessmentDetails: "[Week 3 quiz](https://cits5501.arranstewart.io/backup-2024/assessment/#week-3-quiz) (deadline Sun 11:59pm)"
     },
 
 
@@ -164,7 +164,7 @@ module.exports = function(configData) {
           'Simple specifications',
       reading:
         `- [Dafny language tutorial](https://dafny.org/dafny/OnlineTutorial/guide.html)
-        - Writing English answers using Moodle editors ([html](/workshops/moodle-editors.html)) ([md](/workshops/moodle-editors.md))
+        - Writing English answers using Moodle editors ([html](/backup-2024/workshops/moodle-editors.html)) ([md](/backup-2024/workshops/moodle-editors.md))
         `,
       assessmentDetails: ' ',
     },

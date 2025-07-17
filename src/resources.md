@@ -16,7 +16,7 @@ customStyle: |
 
 Lecture slides will be published here progressively throughout
 the semester. (It's also possible to access
-[previous years' content](/faq/#previous-content) if you'd
+[previous years' content](/backup-2024/faq/#previous-content) if you'd
 like to get an idea in advance of what will be covered.)
 
 {#
@@ -151,7 +151,7 @@ the semester.
   - Sample worksheet solutions  {% resourceList "workshop08-solutions", ["html", "md"] %}
 - Week 10 -- program verification
   - Lab worksheet               {% resourceList "workshop09", ["html", "md"] %}
-  - Writing English answers using Moodle editors ([html](/workshops/moodle-editors.html)) ([md](/workshops/moodle-editors.md))
+  - Writing English answers using Moodle editors ([html](/backup-2024/workshops/moodle-editors.html)) ([md](/backup-2024/workshops/moodle-editors.md))
   - Sample worksheet solutions  {% resourceList "workshop09-solutions", ["html", "md"] %}
 - Week 11 -- specification languages
   - Lab worksheet               {% resourceList "workshop10", ["html", "md"] %}

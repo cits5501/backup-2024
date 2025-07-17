@@ -515,7 +515,7 @@ module.exports = function(eleventyConfig) {
     dataTemplateEngine: "njk",
     // use this to shift base url if
     // deploying to somewhere below root (/)
-    pathPrefix: isProduction ? '/' : '/'
+    pathPrefix: isProduction ? '/backup-2024' : '/'
   };
 }
 

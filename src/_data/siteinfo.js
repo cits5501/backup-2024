@@ -84,7 +84,7 @@ module.exports = function(configData) {
 
   let assessments = {
       week4_quiz: {
-        name: "[Week 4 online quiz](/assessment/#week-4-quiz)",
+        name: "[Week 4 online quiz](/backup-2024/assessment/#week-4-quiz)",
         marksPercent: "5",
         dates: {
           available: makeDate(/*wk*/ 4, /*wed*/ 2, /* time */ 23, 59),
@@ -93,7 +93,7 @@ module.exports = function(configData) {
         submit: moodle
       },
       week7_ex: {
-        name: "[Week 7 mid-semester test](/assessment/#mid-sem-test)",
+        name: "[Week 7 mid-semester test](/backup-2024/assessment/#mid-sem-test)",
         marksPercent: "10",
         dates: {
           available: makeDate(/*wk 7*/ 8, /*wed*/ 2, /* time */ 23, 59),
@@ -113,7 +113,7 @@ module.exports = function(configData) {
       //  submit: moodle
       //},
       project: {
-        name: "[Project](/assessment/#project)",
+        name: "[Project](/backup-2024/assessment/#project)",
         marksPercent: "35",
         dates: {
           available: makeDate(/*wk 9*/ 10, /*thu*/ 3, /* time */ 17, 00),
@@ -123,7 +123,7 @@ module.exports = function(configData) {
         submit: moodle
       },
       exam: {
-        name: "[Face-to-face paper-based exam](/assessment/#exam)",
+        name: "[Face-to-face paper-based exam](/backup-2024/assessment/#exam)",
         marksPercent: "50",
         dates: {
           due: "UWA exam period"
@@ -147,7 +147,7 @@ module.exports = function(configData) {
     subtitle:     `${unitcode} in ${year}`,
     description:  `${unitcode} ${unitname} unit @uwa`,
     repository:   `${locode}/${locode}.github.io`,
-    site_url:     `https://${locode}.arranstewart.io/`,
+    site_url:     `https://${locode}.arranstewart.io/backup-2024`,
 
     unit_outline_url: unit_outline_url,
 
