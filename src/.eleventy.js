@@ -1,5 +1,7 @@
 // .eleventy.js in the project root
 
+// trigger rebuild
+
 const isProduction = process.env.ELEVENTY_ENV === 'production';
 
 const { EleventyRenderPlugin } = require("@11ty/eleventy");

@@ -2,6 +2,7 @@ FROM adstewart/eleventy:1.0.0
 
 RUN \
   cd /opt/site && \
+  \
   npm install --save-dev \
     clean-css                     \
     csslint                       \

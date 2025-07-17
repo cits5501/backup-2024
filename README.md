@@ -4,7 +4,7 @@
 [site]: https://cits5501.arranstewart.io/
 
 This is the Git repository for the CITS5501 "Software Testing and Quality Assurance"
-website, which is built with [eleventy][eleventy] and published using
+website for 2024, which is built with [eleventy][eleventy] and published using
 [GitHub pages][gh-pages]. It uses a Docker image based on
 [arranstewart/eleventy-docker](https://github.com/arranstewart/eleventy-docker).
 
@@ -21,3 +21,5 @@ Content on the website is copyright, but may be used pursuant to the
 licensed under the MIT License.
 
 [github-corner]: https://github.com/tholman/github-corners
+
+
